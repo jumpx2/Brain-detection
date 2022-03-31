@@ -32,3 +32,5 @@ Tensorflow 1.x 버전 활용
 - 이미지처리는 무조건 gpu를 사용해야 한다라고 느낌
 - annotation이 아무리 정확하더라고 모델이 잘 찾지 못하기도 함
 ```
+![brain](https://user-images.githubusercontent.com/81940655/160998163-3b1ece1d-7058-4f10-85eb-5b4f43d86384.gif)
+
