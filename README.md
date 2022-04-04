@@ -23,7 +23,7 @@ Tensorflow 1.x 버전 활용
 ```
 결과
 - dataset에서 annotation을 하고 model에 적용 함 
-- 생각한 만큼 결과가 잘 나옴
+- 잘 예측하는 것으로 나옴
 ```
 
 ```
